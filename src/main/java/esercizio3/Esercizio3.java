@@ -48,7 +48,5 @@ public class Esercizio3 {
                 logger.error("Errore: ", e);
             }
         }
-        
-        scanner.close();
     }
 }
